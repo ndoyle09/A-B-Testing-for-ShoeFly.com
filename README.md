@@ -7,3 +7,5 @@ This exercise demonstrates the following skills:
 2. **Data Analysis and Visualization**: This demonstrates that I can analyze data to derive insights, calculate metrics like click-through rates (CTR) and percentages, and visualize the results using pandas' capabilities, such as grouping and pivoting.
 3. **Coding Logic and Control Flow**: This demonstrates an understanding of coding logic and control flow. I use conditions to create a new column ('is_click') based on the presence of certain values.
 4. **Data Interpretation and Reporting**: The coder can interpret the results of their data analysis and provide meaningful insights. They calculate and report metrics like CTR and experimental group performance, which are essential for making data-driven decisions.
+
+You will find notes explaining my thought processes within the included Jupyter notebook file.
